@@ -1,0 +1,23 @@
+{
+  "name": "react-native-template-devsamurai-basic",
+  "version": "0.0.1",
+  "description": "React Native Template for Dev Samurai basic projects.",
+  "author": "Dev Samurai <contato@devsamurai.com.br>",
+  "homepage": "https://github.com/DevSamurai/react-native-template-devsamurai-basic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevSamurai/react-native-template-devsamurai-basic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DevSamurai/react-native-template-devsamurai-basic.git"
+  },
+  "keywords": [
+    "react-native",
+    "template",
+    "eslint"
+  ],
+  "scripts": {
+    "postversion": "git push && git push --tags"
+  }
+}
