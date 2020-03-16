@@ -13,7 +13,7 @@ Template simples para iniciar projetos React Native.
 Crie um novo projeto React Native utilizando o seguinte comando:
 
 ```sh
-$ npx react-native init [ProjectName] --template devsamurai-basic
+$ react-native init [ProjectName] --template devsamurai-basic
 ```
 
 Espere a conclusão.
