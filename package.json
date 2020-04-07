@@ -1,7 +1,7 @@
 {
   "name": "@devsamurai/react-native-template-basic",
-  "version": "0.0.1",
-  "description": "React Native Template for Dev Samurai basic projects.",
+  "version": "0.0.2",
+  "description": "The basic template for Dev Samurai React Native Apps.",
   "author": "Dev Samurai <contato@devsamurai.com.br>",
   "homepage": "https://github.com/DevSamurai/react-native-template-basic",
   "license": "MIT",
