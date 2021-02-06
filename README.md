@@ -19,10 +19,7 @@ Espere a conclusão.
 
 ## Dúvidas
 
-Se você curtiu esse projeto ou está com dúvidas acesse:
-
-- O Guia com todo o passo a passo explicativo em https://guia.devsamurai.com.br
-- Nossa comunidade Samurai no Discord acesse https://lp.devsamurai.com.br/discord
+Se você curtiu esse projeto ou está com dúvidas acesse o guia com todo o passo a passo explicativo em https://guia.devsamurai.com.br
 
 ## Licença
 
